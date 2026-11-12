@@ -18,7 +18,7 @@
     <a href="https://twitter.com/petheanraj" target="_blank">
       <img src="https://img.shields.io/badge/X%2FTwitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
     </a>
-    <a href="[https://pethean-dev.github.io](https://petheanportfolio.vercel.app/)" target="_blank">
+    <a href="https://petheanportfolio.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
     </a>
     <a href="mailto:contact.petheanraj@gmail.com">
